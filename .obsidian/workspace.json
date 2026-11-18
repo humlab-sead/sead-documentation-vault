@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault Metadata/Templates/Audience Template.md",
+                "file": "Target Audiances/Technical.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Audience Template"
+              "title": "Technical"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault Metadata/Templates/Audience Template.md",
+                "file": "Target Audiances/Technical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,17 +217,17 @@
   },
   "active": "dbde3a25cca42f8b",
   "lastOpenFiles": [
+    "Target Audiances/System, Maintenance, Operations.md",
+    "Target Audiances/Researchers, Users.md",
+    "Target Audiances/Funding Bodies, Outreach.md",
     "Target Audiances/Data Providers.md",
     "Target Audiances/Data Management, Policy, Risk Assessment.md",
-    "Vault Metadata/SEAD Documentation Obsidian Vault.md",
-    "Vault Metadata/Templates/Audience Template.md",
-    "Vault Metadata",
-    "Target Audiances/System, Maintenance, Operations.md",
-    "Diagrams",
-    "Target Audiances/Funding Bodies, Outreach.md",
     "Diagrams/SEAD Documentation types.canvas",
-    "Target Audiances/Researchers, Users.md",
     "Target Audiances/Technical.md",
+    "Vault Metadata/Templates/Audience Template.md",
+    "Vault Metadata/SEAD Documentation Obsidian Vault.md",
+    "Vault Metadata",
+    "Diagrams",
     "2026-11-17.md",
     "Vault Metadata/Z.Images/SEAD-logo-subtext.png",
     "Vault Metadata/Z.Images",
