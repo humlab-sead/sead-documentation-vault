@@ -1,0 +1,75 @@
+{
+  "scanned": true,
+  "seededTaskStatuses": "",
+  "reminders": {
+    "Daily notes/2026-04 (Apr)/2026-04-23 Thursday.md": [
+      {
+        "title": "Make a web version of the Kittjärn vault after it contains some information, and then share it with people who might want to give feedback",
+        "time": "2026-11-25 08:30",
+        "rowNumber": 62,
+        "muted": false
+      }
+    ],
+    "Projects/Data Mapping/MAL Data mapping.md": [
+      {
+        "title": "chose an older example file from these folders and make a Shape Shifter project for it.",
+        "time": "2026-12-15 08:15",
+        "rowNumber": 18,
+        "muted": false
+      }
+    ],
+    "möter/Conferences/Swedish Oikos Meeting 2027 in Umeå.md": [
+      {
+        "title": "Prepare a conference abstract?",
+        "time": "2026-11-26 08:00",
+        "rowNumber": 14,
+        "muted": false
+      }
+    ]
+  },
+  "debug": false,
+  "dndUntil": null,
+  "settings": {
+    "reminderTime": "09:00",
+    "reminderTimeStep": 15,
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "enableNotification": true,
+    "reNotifyMutedOnStartup": false,
+    "notificationPopupStyle": "toast",
+    "openNoteOnReminderClick": false,
+    "useSystemNotification": false,
+    "showPopupWithSystemNotification": false,
+    "keepSystemNotificationOnScreen": false,
+    "focusDoneButtonOnPopup": false,
+    "showOverdueCountInStatusBar": true,
+    "autoCompleteTrigger": "(@",
+    "convertNonTaskLines": true,
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "editorReminderDisplay": true,
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "useReminderTimeFallbackForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "taskStatuses": "",
+    "enableDataviewReminderFormat": false,
+    "dataviewReminderFieldName": "reminder",
+    "enableKanbanPluginReminderFormat": false,
+    "yearMonthDisplayFormat": "YYYY, MMMM",
+    "monthDayDisplayFormat": "MM/DD",
+    "shortDateWithWeekdayDisplayFormat": "M/DD (ddd)",
+    "timeDisplayFormat": "HH:mm",
+    "weekStart": "0",
+    "ntfyEnabled": false,
+    "ntfyServerUrl": "https://ntfy.sh",
+    "ntfyTopic": "",
+    "ntfyAccessToken": "",
+    "excludedPaths": "",
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

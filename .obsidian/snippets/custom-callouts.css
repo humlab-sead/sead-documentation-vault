@@ -1,0 +1,86 @@
+
+/* This code provided by CoPilot on 2025-12-23 to transform my edits to quartz/styles/callouts.scss file into Obsidian format, so the app displays the same callout colours as the web version  */
+
+
+/* Apply the accent color to the callout title */
+.callout .callout-title {
+  color: var(--callout-color);
+}
+
+
+.callout[data-callout] {
+  /* Accent/border/icon color */
+  --callout-color: #00008B; /* DarkBlue */
+  /* Background */
+  background-color: #F8F8FF; /* GhostWhite */
+  /* Optional explicit border color if your theme uses borders */
+  border-color: #D3D3D3;     /* LightGray */
+  /* Icon: use Lucide name if you want to override */
+  /* --callout-icon: lucide-file-text;  (example for "note") */
+}
+
+/* ===== Abstract ===== */
+.callout[data-callout="abstract"] {
+  --callout-color: #800000; /* Maroon */
+  background-color: #FFFFFF; /* White */
+  border-color: #D8BFD8; /* Thistle */
+  /* --callout-icon: lucide-book-open; */
+}
+
+/* ===== Info ===== */
+.callout[data-callout="info"] {
+  --callout-color: #0000FF; /* Blue */
+  background-color: #F0F8FF; /* AliceBlue */
+  border-color: #00008B; /* DarkBlue */
+  /* --callout-icon: lucide-info; */
+}
+
+/* ===== Todo ===== */
+.callout[data-callout="todo"] {
+  --callout-color: #4B0082; /* Indigo */
+  background-color: #E6E6FA; /* Lavender */
+  border-color: #9370DB; /* MediumPurple */
+  /* --callout-icon: lucide-check-circle; */
+}
+
+/* ===== Tip ===== */
+.callout[data-callout="tip"] {
+  --callout-color: #663399; /* RebeccaPurple */
+  background-color: #F5F5F5; /* WhiteSmoke */
+  border-color: #6A5ACD; /* SlateBlue */
+  /* --callout-icon: lucide-lightbulb; */
+}
+
+/* ===== Success ===== */
+.callout[data-callout="success"] {
+  --callout-color: #006400; /* DarkGreen */
+  background-color: #F0FFF0; /* HoneyDew */
+  border-color: #90EE90; /* LightGreen */
+  /* --callout-icon: lucide-check; */
+}
+
+/* ===== Question ===== */
+.callout[data-callout="question"] {
+  --callout-color: #4169E1; /* RoyalBlue */
+  background-color: #FFFAFA; /* Snow */
+  border-color: #9370DB; /* MediumPurple */
+  /* --callout-icon: lucide-help-circle; */
+}
+
+/* ===== Warning ===== */
+.callout[data-callout="warning"] {
+  --callout-color: #C71585; /* MediumVioletRed */
+  background-color: #FFF8DC; /* Cornsilk */
+  border-color: #DB7093; /* PaleVioletRed */
+  /* --callout-icon: lucide-alert-triangle; */
+}
+
+/* ===== Failure / Danger / Bug ===== */
+.callout[data-callout="failure"],
+.callout[data-callout="danger"],
+.callout[data-callout="bug"] {
+  --callout-color: #FF00FF; /* Fuchsia */
+  background-color: #E0FFFF; /* LightCyan */
+  border-color: #DDA0DD; /* Plum */
+  /* --callout-icon: lucide-x-octagon; */
+}
