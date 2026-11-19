@@ -1,6 +1,6 @@
 **First Draft, written by Riia:**
 - [ ] compare both versions, an merge the parts we want to keep
-# ==🟢Researchers / Users==
+# Researchers / Users
 # Target group
 - These are researchers, students, or anyone retrieving data from SEAD with the goal of interpreting and/or using the data, no matter if they use the browser, or an API to access the data.
 - The documentation for this group is aimed at helping them understand the database structure and content sufficiently well enough to answer their research questions.

@@ -1,5 +1,5 @@
 **first draft, written by Copilot:**
-# ==🔵Systems / Maintenance / Operations==
+# Systems / Maintenance / Operations
 ## Target Group
 Database administrators, system administrators, operational support staff, and maintainers responsible for keeping SEAD running.
 ## Purpose

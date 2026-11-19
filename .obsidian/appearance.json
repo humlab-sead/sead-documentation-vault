@@ -1,7 +1,7 @@
 {
   "showRibbon": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "Times New Roman",
   "textFontFamily": "Times New Roman",
-  "accentColor": "#a4040c"
+  "accentColor": "#2f57f9"
 }

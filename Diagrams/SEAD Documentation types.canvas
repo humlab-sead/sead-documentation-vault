@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"730fae13f0f4c27a","type":"file","file":"Target Audiances/Technical.md","x":-1550,"y":595,"width":250,"height":150,"color":"#6c1784"},
-		{"id":"f11fea3f3a706ad2","type":"file","file":"Target Audiances/Researchers, Users.md","x":-1550,"y":30,"width":250,"height":150,"color":"#367e2f"},
-		{"id":"7c3ef4660a5ed5d1","type":"file","file":"Target Audiances/System, Maintenance, Operations.md","x":-1550,"y":270,"width":250,"height":150,"color":"#3648f9"},
+		{"id":"730fae13f0f4c27a","type":"file","file":"Target Audiances/technical.md","x":-1550,"y":595,"width":250,"height":150,"color":"#6c1784"},
+		{"id":"f11fea3f3a706ad2","type":"file","file":"Target Audiances/users.md","x":-1550,"y":30,"width":250,"height":150,"color":"#367e2f"},
+		{"id":"7c3ef4660a5ed5d1","type":"file","file":"Target Audiances/systems_maintenance.md","x":-1550,"y":270,"width":250,"height":150,"color":"#3648f9"},
 		{"id":"c3019e2deeb329bd","type":"text","text":"# Provider omboarding kit","x":-2520,"y":165,"width":250,"height":60},
 		{"id":"e3d48848b658219c","type":"text","text":"# provider documentation\n","x":-2520,"y":265,"width":250,"height":60},
 		{"id":"509b0013248c4b07","type":"text","text":"# release Documentation\n","x":-2365,"y":-50,"width":250,"height":60},
@@ -19,12 +19,12 @@
 		{"id":"5f894a6390bdad92","type":"text","text":"\n- [ ] add \"target audiance\" info to everything\n- external clients\n- system developers ","x":490,"y":490,"width":250,"height":110},
 		{"id":"1a90f6e19aa81c9c","type":"text","text":"# Adademic papers","x":-750,"y":-240,"width":250,"height":60},
 		{"id":"4822f8a07f76e234","type":"text","text":"# conceptual documentation\n'[SEAD Concepts.vsdm](https://umeauniversity.sharepoint.com/:u:/r/sites/SEAD72/Shared%20Documents/Task%20force%20-%20Documentation/Models/sead_conceptual_model/SEAD%20Concepts.vsdm?d=wc026fa7c28f74af887a07b2c576570f6&csf=1&web=1&e=fynw1z)'","x":-405,"y":-240,"width":250,"height":120},
-		{"id":"49d36110b03bcad1","type":"file","file":"Target Audiances/Funding Bodies, Outreach.md","x":-1730,"y":-270,"width":250,"height":150,"color":"#f9ef41"},
+		{"id":"49d36110b03bcad1","type":"file","file":"Target Audiances/funding_bodies.md","x":-1730,"y":-270,"width":250,"height":150,"color":"#f9ef41"},
 		{"id":"2681c2647990c805","type":"text","text":"# documentation guidelines\na document showing scope of needed documentation\n","x":-975,"y":-880,"width":250,"height":100},
 		{"id":"21aafc9b953eae16","type":"text","text":"# SEAD Database","x":-460,"y":-700,"width":250,"height":60},
 		{"id":"9148b0ce1ce84d57","type":"text","text":"# Entity Relationships Diagram (ERD)\n(diagram showing entity relationships)\n- [[SEAD Concepts.vsdm]], a diagram of the SEAD structure, with metadata for tables and the thoughts behind them visible in various layers","x":0,"y":-528,"width":360,"height":170,"color":"#14b9f0"},
-		{"id":"94dc7cee58e3c365","type":"file","file":"Target Audiances/Data Management, Policy, Risk Assessment.md","x":-1535,"y":-880,"width":305,"height":230,"color":"#e83d1f"},
-		{"id":"2ff5b2c1850ccb56","type":"file","file":"Target Audiances/Data Providers.md","x":-1507,"y":-528,"width":347,"height":155,"color":"#ee942d"}
+		{"id":"94dc7cee58e3c365","type":"file","file":"Target Audiances/data_management.md","x":-1535,"y":-880,"width":305,"height":230,"color":"#e83d1f"},
+		{"id":"2ff5b2c1850ccb56","type":"file","file":"Target Audiances/data_providers.md","x":-1507,"y":-528,"width":347,"height":155,"color":"#ee942d"}
 	],
 	"edges":[
 		{"id":"2767ef5bb9acd17a","fromNode":"21aafc9b953eae16","fromSide":"bottom","toNode":"9148b0ce1ce84d57","toSide":"top"},

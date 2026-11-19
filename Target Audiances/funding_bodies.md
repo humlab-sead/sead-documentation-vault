@@ -1,5 +1,5 @@
 **First draft, written by Co-pilot:**
-# ==🟡Funding Bodies / Outreach==
+# Funding Bodies / Community Outreach
 ## Target Group
 Funding agencies, project partners, institutional stakeholders, managers, journalists, and the wider public.
 ## Purpose
