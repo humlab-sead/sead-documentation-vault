@@ -1,4 +1,4 @@
-**First draft, written by Co-pilot:**
+**ok draft, written by Co-pilot:**
 # ==🟠Data Providers==
 ## Target Group
 Researchers, institutions, projects, and data managers preparing datasets for submission to SEAD.

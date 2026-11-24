@@ -1,4 +1,4 @@
-**First draft, written by Co-pilot:**
+**ok draft, written by Co-pilot:**
 # Funding Bodies / Community Outreach
 ## Target Group
 Funding agencies, project partners, institutional stakeholders, managers, journalists, and the wider public.

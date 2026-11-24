@@ -1,7 +1,7 @@
 **first draft, written by Copilot:**
 # ==🟣Technical==
 ## Target Group
-Software developers, database developers, architects, and technical contributors extending or modifying SEAD.
+Software developers, database developers, architects, and technical contributors responsible for data ingestion, extending or modifying SEAD.
 ## Purpose
 Provide the information needed to design, develop, test, integrate, and maintain technical components of the platform.
 ## Typical Questions

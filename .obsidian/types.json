@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "target_audience": "multitext",
+    "document owners": "multitext",
+    "status": "text"
+  }
+}

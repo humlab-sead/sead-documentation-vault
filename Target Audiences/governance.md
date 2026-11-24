@@ -1,9 +1,9 @@
-**First draft, written by Co-pilot:**
+**edited draft**
 # ==🔴Data Management / Policy / Risk Assessment==
 ## Target Group
-Individuals responsible for governance, stewardship, compliance, policy development, risk management, and long-term sustainability of SEAD and related data resources.
+Individuals responsible for governance, stewardship, compliance, policy development, risk management, quality assurance, and long-term sustainability of SEAD and related data resources.
 ## Purpose
-Provide information needed to govern the database, assess risks, establish policies, ensure legal and ethical compliance, and support long-term preservation and sustainability.
+Sustaining the SEAD infrastructure. Documents for this group will provide information needed to govern the database, assess risks, establish policies, ensure legal and ethical compliance, and support long-term preservation and sustainability.
 ## Typical Questions
 
 - What policies govern data submission and publication?

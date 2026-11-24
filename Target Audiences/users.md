@@ -2,8 +2,10 @@
 - [ ] compare both versions, an merge the parts we want to keep
 # Researchers / Users
 # Target group
-- These are researchers, students, or anyone retrieving data from SEAD with the goal of interpreting and/or using the data, no matter if they use the browser, or an API to access the data.
-- The documentation for this group is aimed at helping them understand the database structure and content sufficiently well enough to answer their research questions.
+- These are researchers, students, or anyone retrieving data from SEAD with the goal of interpreting and/or using the data
+- The documentation for this group is aimed at helping them understand and/or find the data and content sufficiently well enough to answer their research questions.
+	- User subgroup 1 will access the database through our browser
+	- User subgroup 2 will use an API to access the data
 # Goals for documentation for this group
 - Enabling research and analysis of the data
 - Ensuring proper citation of the data

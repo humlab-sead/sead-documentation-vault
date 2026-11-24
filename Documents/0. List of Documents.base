@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.path.startsWith("Documents")
+        - file.name != "0. List of Documents.base"
+    order:
+      - file.name
+      - target_audience
+      - location
+      - goal
+      - document owners
+    sort:
+      - property: document owners
+        direction: ASC
+    columnSize:
+      note.target_audience: 129
+      note.goal: 218
