@@ -1,16 +1,8 @@
 {
   "styles": {
-    "Target Audiences/data_management.md": {
+    "Target Audiences/data_providers.md": {
       "backgroundColor": "#e40303",
       "textColor": "#ffffff"
-    },
-    "Target Audiences/data_providers.md": {
-      "backgroundColor": "#ff8c00",
-      "textColor": "#ffffff"
-    },
-    "Target Audiences/funding_bodies.md": {
-      "backgroundColor": "#ffed00",
-      "textColor": "#050505"
     },
     "Target Audiences/systems_maintenance.md": {
       "backgroundColor": "#008026",
@@ -24,18 +16,18 @@
       "backgroundColor": "#750787",
       "textColor": "#ffffff"
     },
-    "Target Audiences/administrative.md": {
-      "backgroundColor": "#e40303",
+    "Target Audiences/governance.md": {
+      "backgroundColor": "#ff8c00",
       "textColor": "#ffffff"
+    },
+    "Target Audiences/outreach.md": {
+      "backgroundColor": "#ffed00",
+      "textColor": "#005050"
     }
   },
   "presets": {
-    "data_management": {
-      "backgroundColor": "#e40303",
-      "textColor": "#ffffff"
-    },
     "data_providers": {
-      "backgroundColor": "#ff8c00",
+      "backgroundColor": "#e40303",
       "textColor": "#ffffff"
     },
     "systems_maintenance": {
@@ -49,7 +41,22 @@
     "users": {
       "backgroundColor": "#750787",
       "textColor": "#ffffff"
+    },
+    "governance": {
+      "backgroundColor": "#ff8c00",
+      "textColor": "#ffffff"
+    },
+    "outreach": {
+      "backgroundColor": "#ffed00",
+      "textColor": "#005050"
     }
   },
-  "presetOrder": []
+  "presetOrder": [
+    "data_providers",
+    "systems_maintenance",
+    "technical",
+    "users",
+    "governance",
+    "outreach"
+  ]
 }

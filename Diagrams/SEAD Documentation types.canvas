@@ -5,7 +5,6 @@
 		{"id":"5f894a6390bdad92","type":"text","text":"\n- [ ] add \"target audiance\" info to everything\n- external clients\n- system developers ","x":490,"y":490,"width":250,"height":110},
 		{"id":"21aafc9b953eae16","type":"text","text":"# SEAD Database","x":-880,"y":-225,"width":250,"height":60},
 		{"id":"730fae13f0f4c27a","type":"file","file":"Target Audiences/technical.md","x":-880,"y":290,"width":299,"height":115,"color":"#004dff"},
-		{"id":"2ff5b2c1850ccb56","type":"file","file":"Target Audiences/data_providers.md","x":-928,"y":-747,"width":347,"height":98,"color":"#ee942d"},
 		{"id":"211016cedc819a12","type":"text","text":"# quality assurance","x":-2020,"y":40,"width":250,"height":60},
 		{"id":"c3019e2deeb329bd","type":"text","text":"# Provider omboarding kit","x":-2270,"y":145,"width":250,"height":120},
 		{"id":"e3d48848b658219c","type":"text","text":"# provider documentation\n","x":-2270,"y":305,"width":250,"height":110},
@@ -14,7 +13,6 @@
 		{"id":"f11fea3f3a706ad2","type":"file","file":"Target Audiences/users.md","x":-1300,"y":70,"width":250,"height":150,"color":"#750787"},
 		{"id":"ed12ab0af46e8054","type":"text","text":"# Policy/guiding documents\n- data policy\n- licencing info\n- AI policy\n- LEAN (as simple as possible)","x":-1740,"y":-245,"width":250,"height":180},
 		{"id":"509b0013248c4b07","type":"text","text":"# release Documentation\n","x":-2115,"y":-300,"width":250,"height":175},
-		{"id":"94dc7cee58e3c365","type":"file","file":"Target Audiences/governance.md","x":-1355,"y":-670,"width":305,"height":115,"color":"#e83d1f"},
 		{"id":"49d36110b03bcad1","type":"file","file":"Target Audiences/outreach.md","x":-480,"y":-670,"width":280,"height":120,"color":"#f9ef41"},
 		{"id":"7c3ef4660a5ed5d1","type":"file","file":"Target Audiences/systems_maintenance.md","x":-480,"y":-5,"width":300,"height":105,"color":"#008026"},
 		{"id":"9148b0ce1ce84d57","type":"text","text":"# Entity Relationships Diagram (ERD)\n(diagram showing entity relationships)\n- [[SEAD Concepts.vsdm]], a diagram of the SEAD structure, with metadata for tables and the thoughts behind them visible in various layers","x":-90,"y":-280,"width":360,"height":170},
@@ -24,7 +22,9 @@
 		{"id":"9c99e8e5e808c115","type":"text","text":"# systems documentation\n","x":120,"y":-567,"width":250,"height":60},
 		{"id":"d5031b07ba2f6688","type":"text","text":"# user documentation","x":120,"y":-447,"width":250,"height":60},
 		{"id":"4822f8a07f76e234","type":"text","text":"# conceptual documentation\n'[SEAD Concepts.vsdm](https://umeauniversity.sharepoint.com/:u:/r/sites/SEAD72/Shared%20Documents/Task%20force%20-%20Documentation/Models/sead_conceptual_model/SEAD%20Concepts.vsdm?d=wc026fa7c28f74af887a07b2c576570f6&csf=1&web=1&e=fynw1z)'","x":215,"y":-747,"width":250,"height":120},
-		{"id":"2681c2647990c805","type":"text","text":"# documentation guidelines\na document showing scope of needed documentation\n","x":-2270,"y":-828,"width":555,"height":283}
+		{"id":"94dc7cee58e3c365","type":"file","file":"Target Audiences/governance.md","x":-1032,"y":-774,"width":305,"height":115,"color":"#ff8c00"},
+		{"id":"2681c2647990c805","type":"text","text":"# documentation guidelines\na document showing scope of needed documentation\n","x":-1823,"y":-1057,"width":555,"height":283},
+		{"id":"2ff5b2c1850ccb56","type":"file","file":"Target Audiences/data_providers.md","x":-1560,"y":-586,"width":347,"height":98,"color":"#e40303"}
 	],
 	"edges":[
 		{"id":"1d21f86dd046a1f6","fromNode":"e3d48848b658219c","fromSide":"bottom","toNode":"f808780523c6031e","toSide":"top"},
